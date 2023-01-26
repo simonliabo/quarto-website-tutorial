@@ -1,7 +1,6 @@
 ---
 title: "Første nettside med Quarto"
 subtitle: "Create open-source tutorials, onboarding docs, and much more"
-author: "Simon Liabø"
 ---
 
 ## Welcome {#welcome}
